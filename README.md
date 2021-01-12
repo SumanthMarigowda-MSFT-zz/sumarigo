@@ -9,5 +9,5 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 | Priority | Initial Engagement |Service area bucket (Queue)|
 |--|--|--|
-| P1 | <24 hrs | Prioritize and work on all P1 threads in the daily triage|
-| P3 | Not greater than (>48hrs)| Once P1 threads are handled, start working on P3 threads
+| P1 | <24 hrs | Learning time|
+| P3 | Not greater than (>48hrs)| Once P1 Testing the Github for merge|
