@@ -5,14 +5,9 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 
 
-testing purpose 
+*Testing purpose* 
 
-
-
-| Test| Test1 |Test 3
-(Queue)|
+| Priority | Initial Engagement |Service area bucket (Queue)|
 |--|--|--|
-| P1 | <24 hrs | 123|
-| P3 | >24 hrs | 345|
-
-
+| P1 | <24 hrs | Prioritize and work on all P1 threads in the daily triage|
+| P3 | Not greater than (>48hrs)| Once P1 threads are handled, start working on P3 threads
